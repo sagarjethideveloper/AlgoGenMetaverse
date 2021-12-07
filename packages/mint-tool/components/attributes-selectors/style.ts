@@ -1,4 +1,4 @@
-import { createUseStyle } from '@tiexohq/marketplace-common/ui/hooks/theme'
+import { createUseStyle } from '@DefiSquarehq/marketplace-common/ui/hooks/theme'
 import { css } from '@emotion/css'
 
 export default createUseStyle(() => ({

@@ -1,6 +1,6 @@
 import useStyle from './style'
 
-import Img from '@tiexohq/marketplace-common/ui/components/img'
+import Img from '@DefiSquarehq/marketplace-common/ui/components/img'
 
 const Header = () => {
     const style = useStyle()

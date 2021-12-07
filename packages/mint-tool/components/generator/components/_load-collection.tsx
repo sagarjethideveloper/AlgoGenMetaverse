@@ -2,7 +2,7 @@ import { Stack } from '@mui/material'
 import Button from '@mui/material/Button'
 import CircularProgress from '@mui/material/CircularProgress'
 import Grid from '@mui/material/Grid'
-import useEffectAsync from '@tiexohq/marketplace-common/ui/hooks/use-effect-async'
+import useEffectAsync from '@DefiSquarehq/marketplace-common/ui/hooks/use-effect-async'
 import {
     getAttributesData,
     IAttributesData,
