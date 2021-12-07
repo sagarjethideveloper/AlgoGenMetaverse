@@ -1,4 +1,5 @@
 - ✨Magic ✨
+MetaVerse autogenerative Image for Algorand ecosystem
 
 ## Who we are
 We are known in the blockchain ecosystem as  DefiSquare Team, a non-custodial digital asset wallet and a node operator for several blockchain networks, and being able to build an NFT marketplace is something we have set out to achieve for some time. We are really excited join the NFT movement and build [DefiSquare](https://DefiSquare.com).(Upcoming)
