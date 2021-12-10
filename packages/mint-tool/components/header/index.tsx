@@ -7,7 +7,7 @@ const Header = () => {
     const style = useStyle()
     return (
         <header className={style.header}>
-            <Img className={style.logo} src="/AlgoGenMetaverse.svg" />
+            <Img className={style.logo} src="/AlgoGenMetaverse.svg"  alt="image"/>
             <nav>
                 {/* <Link href="/">
                     Home
@@ -16,7 +16,6 @@ const Header = () => {
                     Mint
                 </Link> */}
                {/* <AlgoSigner/>          */}
-
             </nav>
         </header>
     )
